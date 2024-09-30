@@ -108,11 +108,11 @@ body{
 }
 
 .site-banner .banner-area .author .author-img{
-    width: 240px;
-    height: 240px;
+    width: 500px;
+    height: 500px;
     border-radius: 50%;
     margin: auto;
-    background: url(./assets/Securing the future,.png) no-repeat;
+    background: url(./assets/final.png) no-repeat;
     background-size: 110%;
     background-position: 40% 0;
 }
