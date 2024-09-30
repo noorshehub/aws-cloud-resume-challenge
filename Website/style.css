@@ -108,8 +108,8 @@ body{
 }
 
 .site-banner .banner-area .author .author-img{
-    width: 500px;
-    height: 500px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     margin: auto;
     background: url(./assets/final.png) no-repeat;
